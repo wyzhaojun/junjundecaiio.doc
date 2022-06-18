@@ -1,6 +1,6 @@
 # junjunの菜
 
-> 美味收割
+> 美味珍藏屋
 
 [GitHub](https://github.com/wyzhaojun)
 [gitee](https://gitee.com/wyzhaojun/dashboard/projects)
